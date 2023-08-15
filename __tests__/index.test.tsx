@@ -1,3 +1,6 @@
+import { render, screen } from "@testing-library/react"
+
 it("should", () => {
-    expect(1).toBe(1)
+    expect(2).toBe(2)
+    render
 })
